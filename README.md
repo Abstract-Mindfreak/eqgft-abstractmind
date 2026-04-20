@@ -51,6 +51,12 @@ EQGFT is an effective field-theoretic reformulation of the Dirac–Maxwell secto
 
 See `EQGFT_v2.1.en.json` for the full machine-readable specification.
 
+## Visualization scripts
+
+- `src/visualize_Q_field.py` – simple scripts to:
+  - sample random rotor configurations Q(x) on S^3,
+  - visualize their 3D projection,
+  - show an example of a knotted / Hopf-like curve in R^3.
 ---
 
 # Эффективная Кватернионная Геометрическая Теория Поля (EQGFT)
